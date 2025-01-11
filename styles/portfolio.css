@@ -190,3 +190,12 @@ input::placeholder {
   textarea::placeholder {
     font-size: 20px; /* Adjust the size as needed */
   }
+
+  .icons a {
+    margin: 10px; /* Adds space around each anchor tag */
+  }
+  
+  .icons img {
+    width: 30px; /* Optional: Set the size of the icons */
+    height: 30px; /* Optional: Set the size of the icons */
+  }
